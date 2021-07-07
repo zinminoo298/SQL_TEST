@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Stock Count</string>
+    <string name="date">ရက်စွဲ</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <!--<Main Activity>-->
+    <string name="master">မူရင်းအချက်အလက်</string>
+    <string name="total_items">ပစ္စည်းများ</string>
+    <string name="total_qty">ပစ္စည်းအရေအတွက်</string>
+    <string name="update_date">Updated Dt</string>
+    <string name="transaction">စက်ထဲရှိအချက်အလက်</string>
+    <string name="new_item">ပစ္စည်းအသစ်</string>
+    <string name="last_date">နောက်ဆုံးဖတ်ရက်စွဲ</string>
+    <string name="change_lan">ဘာသာစကား</string>
+    <string name="item_code">ပစ္စည်းကုဒ်</string>
+
+    <!--<Drawer Menu Setting>-->
+    <string name="input">မူရင်းဖိုင်သွင်းရန်</string>
+    <string name="scan">စဖတ်ရန်</string>
+    <string name="export">အချက်အလက်ထုတ်ရန်</string>
+    <string name="search">ရှာဖွေရန်</string>
+    <string name="language">ဘာသာစကား</string>
+    <string name="clear">အချက်အလက်ရှင်းရန်</string>
+    <string name="exit">ထွက်ရန်</string>
+
+    <!--<Drawer Menu Setting>-->
+    <string name="location">တည်နေရာ</string>
+    <string name="item">ပစ္စည်း</string>
+    <string name="qty">အရေအတွက်</string>
+
+    <!--<Drawer Menu Setting>-->
+    <string name="barcode">‌ဘားကုဒ်</string>
+    <string name="description">ဖေါ်ပြချက်</string>
+    ်
+    <!--<Bottom Nav Bar>-->
+    <string name="edit">ပြင်ဆင်ရန်</string>
+    <string name="delete">ဖျက်ပစ်ရန်</string>
+    <string name="close1">ထွက်ရန်</string>
+
+
+
+    <!--<Are you sure?>-->
+    <string name="sure">သင်သေချာပါသလား</string>
+
+    <!--<All information is required>-->
+    <string name="info">အချက်အလက်အားလုံးလိုအပ်သည်</string>
+
+    <!--<Please Open Master File>-->
+    <string name="open_master">မာစတာဖိုင်ကိုရွေးချယ်ပါ</string>
+
+
+
+    <!--<Choose Language>-->
+    <string name="c_language">ဘာသာစကားရွေးပါ</string>
+    <string name="english">အင်္ဂလိပ်</string>
+    <string name="thai">ထိုင်း</string>
+    <string name="myanmar">မြန်မာ</string>
+
+    <!--<Choose Database>-->
+    <string name="c_data">ဒေတာဘေ့စကိုရွေးချယ်ပါ</string>
+    <string name="master1">မူရင်းဖိုင်</string>
+    <string name="tran">စက်ထဲရှိဖိုင်</string>
+    <string name="all">ဖိုင်အားလုံး</string>
+
+</resources>

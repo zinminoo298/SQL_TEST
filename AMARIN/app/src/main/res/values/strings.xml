@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Stock Count</string>
+    <string name="date">Date</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+
+    <!--<Main Activity>-->
+    <string name="master">Master</string>
+    <string name="total_items">Total Items</string>
+    <string name="total_qty">Total Qty</string>
+    <string name="update_date">Updated Dt</string>
+    <string name="transaction">Transaction</string>
+    <string name="new_item">New Item</string>
+    <string name="last_date">Last Scan Dt</string>
+    <string name="change_lan">Change Language</string>
+    <string name="item_code">Item Code</string>
+
+    <!--<Drawer Menu Setting>-->
+    <string name="input">Import Master</string>
+    <string name="scan">Scan</string>
+    <string name="export">Export</string>
+    <string name="search">Search</string>
+    <string name="language">Change Language</string>
+    <string name="clear">Clear Data</string>
+    <string name="exit">Exit</string>
+
+    <!--<Drawer Menu Setting>-->
+    <string name="location">Location</string>
+    <string name="item">Item</string>
+    <string name="qty">QTY</string>
+
+    <!--<Drawer Menu Setting>-->
+    <string name="barcode">Barcode</string>
+    <string name="description">Description</string>
+
+    <!--<Bottom Nav Bar>-->
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="close1">Close</string>
+
+
+    <!--<Are you sure?>-->
+    <string name="sure">Are you sure?</string>
+
+    <!--<All information is required>-->
+    <string name="info">All information is required</string>
+
+    <!--<Please Open Master File>-->
+    <string name="open_master">Please Open Master File</string>
+
+
+    <!--<Choose Language>-->
+    <string name="c_language">Choose Language</string>
+    <string name="english">English</string>
+    <string name="thai">Thai</string>
+    <string name="myanmar">Myanmar</string>
+
+    <!--<Choose Database>-->
+    <string name="c_data">Choose Database</string>
+    <string name="master1">Master Data</string>
+    <string name="tran">Scanned Data</string>
+    <string name="all">All Data</string>
+
+
+</resources>

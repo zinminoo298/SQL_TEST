@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <LinearLayout
+            xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/border_style"
+            android:orientation="horizontal"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent">
+        <TextView android:layout_width="fill_parent"
+                  android:hint="99/99/99"
+                  android:id="@+id/summery_date"
+                  android:padding="3dp"
+                  android:gravity="center_vertical|center_horizontal"
+                  android:textSize="15sp"
+                  android:layout_weight="0.98"
+                  android:layout_height="@dimen/_40sdp"/>
+        <TextView android:layout_width="fill_parent"
+                  android:id="@+id/summery_location"
+                  android:hint="FOOD SHELF"
+                  android:textSize="15sp"
+                  android:padding="3dp"
+                  android:layout_weight="0.95"
+                  android:gravity="center_vertical|center_horizontal"
+                  android:layout_height="@dimen/_40sdp"/>
+        <TextView android:layout_width="fill_parent"
+                  android:hint="1000"
+                  android:id="@+id/summery_item"
+                  android:padding="3dp"
+                  android:textSize="15sp"
+                  android:layout_weight="1"
+                  android:gravity="center_vertical|center_horizontal"
+                  android:layout_height="@dimen/_40sdp"/>
+        <TextView android:layout_width="fill_parent"
+                  android:hint="100000"
+                  android:id="@+id/summery_qty"
+                  android:padding="3dp"
+                  android:gravity="center_vertical|center_horizontal"
+                  android:textSize="15sp"
+                  android:layout_weight="1"
+                  android:layout_height="@dimen/_40sdp"/>
+
+    </LinearLayout>
+

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/_100sdp"
+                android:background="#FF3F51B5"
+                android:padding="20dp">
+    <TextView
+            android:text="MENU"
+            android:layout_width="385dp"
+            android:layout_height="53dp" android:id="@+id/textView2" android:padding="10dp"
+            android:textColor="#FFFFFF" android:textSize="24sp"/>
+</RelativeLayout>

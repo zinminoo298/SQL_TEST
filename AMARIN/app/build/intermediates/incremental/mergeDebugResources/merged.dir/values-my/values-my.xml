@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="7903180715631665059" name="abc_action_bar_home_description">"မူလနေရာကို ပြန်သွားရန်"</string>
+    <string msgid="6794660482873516081" name="abc_action_bar_up_description">"အပေါ်သို့ ရွှေ့ရန်"</string>
+    <string msgid="1155814932213556626" name="abc_action_menu_overflow_description">"နောက်ထပ် ရွေးစရာများ"</string>
+    <string msgid="2571498368472823490" name="abc_action_mode_done">"ပြီးပြီ"</string>
+    <string msgid="3732416590524162402" name="abc_activity_chooser_view_see_all">"အားလုံး ကြည့်ရန်"</string>
+    <string msgid="1798588241954930982" name="abc_activitychooserview_choose_application">"အက်ပ်တစ်ခုကို ရွေးရန်"</string>
+    <string msgid="3403923230105792483" name="abc_capital_off">"ပိတ်ရန်"</string>
+    <string msgid="7831734969929204599" name="abc_capital_on">"ဖွင့်ရန်"</string>
+    <string msgid="5725160506500770567" name="abc_menu_alt_shortcut_label">"Alt+"</string>
+    <string msgid="944415252197684443" name="abc_menu_ctrl_shortcut_label">"Ctrl+"</string>
+    <string msgid="129742188101734366" name="abc_menu_delete_shortcut_label">"delete"</string>
+    <string msgid="6840127756824236027" name="abc_menu_enter_shortcut_label">"enter"</string>
+    <string msgid="4974283687810130415" name="abc_menu_function_shortcut_label">"Function+"</string>
+    <string msgid="8046416353848716905" name="abc_menu_meta_shortcut_label">"Meta+"</string>
+    <string msgid="3271697756921353410" name="abc_menu_shift_shortcut_label">"Shift+"</string>
+    <string msgid="2304645930658438191" name="abc_menu_space_shortcut_label">"space"</string>
+    <string msgid="8327365089695024394" name="abc_menu_sym_shortcut_label">"Sym+"</string>
+    <string msgid="3570106412128999382" name="abc_prepend_shortcut_label">"Menu+"</string>
+    <string msgid="940844115270746197" name="abc_search_hint">"ရှာဖွေရန်…"</string>
+    <string msgid="1769270744562318534" name="abc_searchview_description_clear">"ရှာဖွေမှုကို ဖယ်ရှားရန်"</string>
+    <string msgid="908784302972860853" name="abc_searchview_description_query">"ရှာဖွေရန် မေးခွန်း"</string>
+    <string msgid="5466662225065974044" name="abc_searchview_description_search">"ရှာရန်"</string>
+    <string msgid="8203855622131699655" name="abc_searchview_description_submit">"ရှာဖွေစရာ အချက်အလက်ကို ပေးပို့ရန်"</string>
+    <string msgid="3478748990613108725" name="abc_searchview_description_voice">"အသံဖြင့် ရှာရန်"</string>
+    <string msgid="2650565705514630347" name="abc_shareactionprovider_share_with">"နှင့် မျှဝေရန်"</string>
+    <string msgid="9009661856846212431" name="abc_shareactionprovider_share_with_application">"<ns1:g id="APPLICATION_NAME">%s</ns1:g> ဖြင့် မျှဝေရန်"</string>
+    <string msgid="6389460216547290468" name="abc_toolbar_collapse_description">"လျှော့ပြရန်"</string>
+    <string name="all">ဖိုင်အားလုံး</string>
+    <string name="app_name">Stock Count</string>
+    <string name="barcode">‌ဘားကုဒ်</string>
+    <string name="c_data">ဒေတာဘေ့စကိုရွေးချယ်ပါ</string>
+    <string name="c_language">ဘာသာစကားရွေးပါ</string>
+    <string name="change_lan">ဘာသာစကား</string>
+    <string name="clear">အချက်အလက်ရှင်းရန်</string>
+    <string name="close">Close</string>
+    <string name="close1">ထွက်ရန်</string>
+    <string name="date">ရက်စွဲ</string>
+    <string name="delete">ဖျက်ပစ်ရန်</string>
+    <string name="description">ဖေါ်ပြချက်</string>
+    <string name="edit">ပြင်ဆင်ရန်</string>
+    <string name="english">အင်္ဂလိပ်</string>
+    <string name="exit">ထွက်ရန်</string>
+    <string name="export">အချက်အလက်ထုတ်ရန်</string>
+    <string name="info">အချက်အလက်အားလုံးလိုအပ်သည်</string>
+    <string name="input">မူရင်းဖိုင်သွင်းရန်</string>
+    <string name="item">ပစ္စည်း</string>
+    <string name="item_code">ပစ္စည်းကုဒ်</string>
+    <string name="language">ဘာသာစကား</string>
+    <string name="last_date">နောက်ဆုံးဖတ်ရက်စွဲ</string>
+    <string name="location">တည်နေရာ</string>
+    <string name="master">မူရင်းအချက်အလက်</string>
+    <string name="master1">မူရင်းဖိုင်</string>
+    <string name="myanmar">မြန်မာ</string>
+    <string name="new_item">ပစ္စည်းအသစ်</string>
+    <string name="open">Open</string>
+    <string name="open_master">မာစတာဖိုင်ကိုရွေးချယ်ပါ</string>
+    <string name="qty">အရေအတွက်</string>
+    <string name="scan">စဖတ်ရန်</string>
+    <string name="search">ရှာဖွေရန်</string>
+    <string msgid="730395136688082741" name="search_menu_title">"ရှာဖွေမှု"</string>
+    <string msgid="8106346172024741305" name="status_bar_notification_info_overflow">"၉၉၉+"</string>
+    <string name="sure">သင်သေချာပါသလား</string>
+    <string name="thai">ထိုင်း</string>
+    <string name="total_items">ပစ္စည်းများ</string>
+    <string name="total_qty">ပစ္စည်းအရေအတွက်</string>
+    <string name="tran">စက်ထဲရှိဖိုင်</string>
+    <string name="transaction">စက်ထဲရှိအချက်အလက်</string>
+    <string name="update_date">Updated Dt</string>
+</resources>

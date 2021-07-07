@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="horizontal"
+              android:layout_width="match_parent"
+              android:background="@drawable/border_style"
+              android:layout_height="45dp">
+
+
+    <LinearLayout android:layout_width="240dp"
+                  android:orientation="vertical"
+                  android:layout_height="40dp">
+
+        <TextView
+                android:id="@+id/txt_id"
+                android:text="0"
+                android:textStyle="bold"
+                android:layout_width="240dp"
+                android:textAlignment="center"
+                android:textSize="15sp"
+                android:layout_height="20dp"/>
+
+        <LinearLayout android:layout_width="240dp" android:layout_height="20dp">
+
+            <TextView android:layout_width="122dp"
+                      android:id="@+id/txt_date"
+                      android:textSize="15sp"
+                      android:textAlignment="center"
+                      android:layout_height="match_parent"/>
+
+            <TextView android:layout_width="120dp"
+                      android:id="@+id/txt_location"
+                      android:textSize="15sp"
+                      android:textAlignment="center"
+                      android:layout_height="match_parent"/>
+        </LinearLayout>
+    </LinearLayout>
+    <LinearLayout android:layout_width="4dp"
+                  android:textSize="30sp"
+                  android:layout_height="40dp"
+                  android:background="@drawable/border_style"/>
+
+    <TextView
+            android:layout_marginLeft="2.2dp"
+            android:id="@+id/txt_quantity"
+            android:text="0"
+            android:textAlignment="center"
+            android:textStyle="bold"
+            android:layout_width="80dp"
+            android:textSize="20sp"
+            android:layout_height="40dp"/>
+
+</LinearLayout>
